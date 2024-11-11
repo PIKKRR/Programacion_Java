@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 Desarrolla un programa que solicite al usuario ingresar un número y luego imprima si es mayor que 0,
 menor que 0 o igual a 0.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class MayorMenor {
