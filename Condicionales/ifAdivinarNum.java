@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
 Desarrolla un programa en el que el usuario intenta adivinar un número generado aleatoriamente entre 1 y 100.
 El programa indicará si el número ingresado es demasiado alto, demasiado bajo o si el usuario ha acertado.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class ifAdivinarNum {
