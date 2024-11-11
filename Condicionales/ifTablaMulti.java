@@ -2,7 +2,7 @@ package Condicionales;
 
 /*
 Desarrolla un programa que imprima las tablas de multiplicar del 1 al 10.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class ifTablaMulti {
