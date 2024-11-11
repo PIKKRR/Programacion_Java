@@ -11,7 +11,7 @@ public class ArrayList1 {
     Añadir todos los elementos únicos del HashSet de vuelta al ArrayList.
     Finalmente, imprimir el ArrayList resultante, que ahora contendrá solo elementos únicos.
     
-    Autor: Jose P. Couso  "Blayneraptor" */
+    Autor: Antonio Casamitjana 'PIKKRR' */
 
     public static void main(String[] args) {
        
