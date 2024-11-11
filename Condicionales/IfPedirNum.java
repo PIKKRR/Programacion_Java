@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
 Desarrolla un programa que solicite al usuario ingresar dos números.
 Luego, compara los números e imprime un mensaje indicando cuál es mayor, si son iguales o cuál es menor.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class IfPedirNum {
