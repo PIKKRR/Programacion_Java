@@ -3,7 +3,7 @@ package Condicionales;
 /*
 Desarrolla un programa que imprima todos los números del 00000 al 99999,
 sustituyendo el dígito '3' por la letra 'E'.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class ifContador {
