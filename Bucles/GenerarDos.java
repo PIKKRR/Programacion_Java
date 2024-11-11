@@ -6,8 +6,7 @@ import java.util.Scanner;
 /*
 Crea un programa que solicite al usuario dos números y genere 5 números aleatorios
 entre esos dos números, mostrándolos al usuario.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class GenerarDos {
     public static void main(String[] args) {

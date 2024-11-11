@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 /* Realiza operaciones básicas con ArrayList: agregar, acceder por índice, verificar presencia.
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class PruebaArrays {
 

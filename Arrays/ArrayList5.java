@@ -3,8 +3,7 @@ package Arrays;
 import java.util.ArrayList;
 
 /* Haz varios usos de los métodos que tiene el ArrayList, lastIndexOf, remove, set, size, subList, toArray.
- Autor: Jose P. Couso  "Blayneraptor" 
- */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 
 public class ArrayList5 {

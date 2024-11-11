@@ -8,7 +8,7 @@ import java.util.*;
 - Se pide por pantalla al usuario si desea almacenar algún valor, si teclea si, se almacena 
 el valor tecleado en el arralist.
 
-Autor: Jose P. Couso  "Blayneraptor"*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList14 {
 

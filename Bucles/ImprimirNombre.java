@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 /*
 Desarrolla un programa que solicite al usuario ingresar su nombre y luego lo imprima 10 veces.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ImprimirNombre {
     

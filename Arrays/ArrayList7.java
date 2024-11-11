@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*Diseña un programa que pide por pantalla 5 datos de tipo int, y se almacenan en un 
 arraylist. Posteriormente se pregunta si se desean imprimir los datos, en caso 
 afirmativo mostrar los datos por pantalla.
-Autor: Jose P. Couso  "Blayneraptor"  */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList7 {
     

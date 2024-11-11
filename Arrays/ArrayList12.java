@@ -18,8 +18,7 @@ si la posición es correcta.
 La opción 5 muestra por pantalla un listado de todos los empleados 
 Tras procesar cada opción, se debe mostrar de nuevo el menú inicial, hasta que se 
 seleccione la opción 6, que terminará el programa
-
-Autor: Jose P. Couso  "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList12 {
 

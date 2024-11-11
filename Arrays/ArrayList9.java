@@ -6,7 +6,7 @@ piden nombres por pantalla hastaque se introduce la palabra salir
 Se deben visualizar todos los valores introducidos y el número de valores que se 
 introduce
 
-Autor: Jose P. Couso  "Blayneraptor"  */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList9 {
 

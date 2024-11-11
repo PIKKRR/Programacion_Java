@@ -6,8 +6,7 @@ import java.util.Scanner;
 Desarrolla un programa que solicite al usuario ingresar la cantidad de segundos transcurridos en un partido.
 Luego, convierte esos segundos en minutos e imprime el minuto correspondiente.
 El programa preguntará si se desea ingresar otro valor.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class Pract1 {
     public static void main(String[] args) {

@@ -7,8 +7,7 @@ import java.util.Scanner;
 Desarrolla un programa que solicite al usuario ingresar un número entero del 1 al 12. Luego, imprime la
 tabla de multiplicar correspondiente al número ingresado. Utiliza un bucle while para generar la tabla.
 El programa se cerrará después de mostrar la tabla.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class TablaMultiplicarVisual {
 

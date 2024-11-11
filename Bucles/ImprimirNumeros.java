@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 /*
 Desarrolla un programa que imprima los números del 0 al 50 en incrementos de 5.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ImprimirNumeros {
     

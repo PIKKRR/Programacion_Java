@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 /*
 Desarrolla un programa que solicite al usuario ingresar su nombre y un número, luego imprime el nombre la cantidad de veces especificada por el número.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class PidePantalla{
 

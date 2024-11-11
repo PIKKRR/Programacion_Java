@@ -9,8 +9,7 @@ Eliminar un producto del inventario.
 Actualizar la información de un producto existente en el inventario.
 Mostrar el nombre del último producto del inventario.
 
-Autor: Jose P. Couso  "Blayneraptor" 
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList2 {
     

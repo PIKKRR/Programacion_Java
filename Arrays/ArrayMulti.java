@@ -5,7 +5,7 @@ public class ArrayMulti {
 cadenas de texto con dimensiones 3x3x3. Luego, llena la matriz con cadenas
 que representen la posición de cada elemento en la matriz y muestra cada
 elemento.
- Autor: Jose P. Couso  "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 
     public static void main(String[] args) {

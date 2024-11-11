@@ -6,8 +6,7 @@ import java.util.Scanner;
 /*
 Desarrolla un programa que genere los primeros 10 números de la serie de Fibonacci e imprima cada número.
 La serie de Fibonacci comienza con 0 y 1, y cada número posterior es la suma de los dos números anteriores.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class TareaBucle2 {
 

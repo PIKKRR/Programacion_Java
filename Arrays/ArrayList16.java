@@ -5,7 +5,7 @@ import java.util.*;
 como un array convencional. El programa permitirá realizar operaciones básicas como agregar 
 números, calcular la suma y encontrar el número más grande en ambas estructuras.
 
-Autor: Jose P. Couso  "Blayneraptor"*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList16 {
 

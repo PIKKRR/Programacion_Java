@@ -4,8 +4,7 @@ import java.util.*;
 public class Foreach {
 
     /* Haz un programa que use el bucle For-each usando una suma de enteros.
- Autor: Jose P. Couso  "Blayneraptor" 
- */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
     
     public static void main(String[] args) {
         

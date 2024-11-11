@@ -6,7 +6,7 @@ import java.util.Scanner;
 ArrayList. El programa permitirá agregar nuevas asignaturas, mostrar la lista de asignaturas y 
 buscar asignaturas por su nombre.
 
-Autor: Jose P. Couso  "Blayneraptor"*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList15 {
 

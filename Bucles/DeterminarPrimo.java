@@ -4,8 +4,7 @@ import java.util.Scanner;
 /*
 Crea un programa que solicite al usuario ingresar un número positivo. Determina
 si el número ingresado es primo o no.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class DeterminarPrimo {
     public static void main(String[] args) {

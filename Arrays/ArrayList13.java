@@ -9,7 +9,7 @@ A continuación el programa mostrará por pantalla el número de valores que se 
 suma y su media. Por último se mostrarán todos los valores leídos, indicando cuántos de ellos 
 son mayores que la media.
 
-Autor: Jose P. Couso  "Blayneraptor"*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList13 {
     

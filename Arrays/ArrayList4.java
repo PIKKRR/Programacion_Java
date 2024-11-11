@@ -3,8 +3,7 @@ package Arrays;
 import java.util.ArrayList;
 
 /* Haz varios usos de los métodos que tiene el ArrayList, contains, get, indexOf, isEmpty, clear.
- Autor: Jose P. Couso  "Blayneraptor" 
- */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList4 {
 

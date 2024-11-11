@@ -2,8 +2,7 @@ package Boolean;
 
 /* Haz un ejercicio en el que tengas unas variables int a,b,c y haz uso de los operadores <,>,=  || y ! 
 con un resultado booleano. 
-    Autor: Jose P. Couso  "Blayneraptor"  
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class Boolean3 {
     

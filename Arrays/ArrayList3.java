@@ -6,9 +6,7 @@ Desarrolla un programa Java que calcule la suma de números enteros almacenados 
 Utiliza un bucle for-each para recorrer los elementos y sumarlos.
 Finalmente, muestra la suma total en la consola, hazlo tambien con un bucle for.
 
-Autor: Jose P. Couso  "Blayneraptor" 
-
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList3 {
     

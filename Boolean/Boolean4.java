@@ -6,7 +6,7 @@ import java.util.Date;
 
 /*Escribe un programa en Java que pida al usuario su fecha de nacimiento (dd/mm/aaaa) y calcule si es mayor de edad (18 años o más).
   El programa debe mostrar un mensaje que indique si la persona es mayor de edad o no. 
-  Autor: Jose P. Couso  "Blayneraptor */
+  Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class Boolean4 {
     

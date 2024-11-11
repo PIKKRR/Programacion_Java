@@ -3,8 +3,7 @@ package Bucles;
 /*
 Desarrolla un programa que calcule el factorial del número 15 e imprima el resultado.
 El factorial de un número es el producto de todos los números enteros positivos desde 1 hasta ese número.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class TareaBucle3 {
 

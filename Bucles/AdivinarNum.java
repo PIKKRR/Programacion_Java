@@ -6,8 +6,7 @@ import java.util.Scanner;
 Desarrolla un juego en donde el usuario debe adivinar un número secreto entre 1 y 10.
 Imprime el resultado de cada intento y muestra si el usuario ha acertado o ha agotado
 sus intentos.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class AdivinarNum {
 

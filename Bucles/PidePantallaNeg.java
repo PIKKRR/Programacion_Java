@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 /*
 Desarrolla un programa que solicite al usuario ingresar números enteros. La suma de los números se calculará hasta que se ingrese un número negativo.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class PidePantallaNeg {
 

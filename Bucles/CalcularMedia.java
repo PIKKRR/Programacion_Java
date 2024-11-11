@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 /*
 Crea un programa que solicite al usuario 5 números enteros. Calcula y muestra la media aritmética de los números ingresados.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class CalcularMedia {
     public static void main(String[] args) {

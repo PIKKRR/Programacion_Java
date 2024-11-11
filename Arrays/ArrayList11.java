@@ -5,7 +5,7 @@ import java.util.*;
 almacenan en un Arraylist. Se piden valores hasta que se teclea la palabra SALIR.
 Visualizar los valores, y el número de valores que se introducen.
 
-Autor: Antonio Casamitjana 'PIKKRR'*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList11 {
 

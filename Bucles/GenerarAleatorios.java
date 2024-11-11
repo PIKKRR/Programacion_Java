@@ -5,8 +5,7 @@ import java.util.Scanner;
 /*
 Crea un programa que genere una cantidad especificada de números aleatorios entre
 0 y 100, y los muestre al usuario.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class GenerarAleatorios {
     public static void main(String[] args) {

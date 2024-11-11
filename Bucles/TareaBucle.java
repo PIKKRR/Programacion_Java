@@ -6,8 +6,7 @@ import java.util.Scanner;
 Desarrolla un programa que solicite al usuario ingresar números enteros positivos. El programa determinará
 si cada número ingresado es primo o no. Si se ingresa un número negativo, solicitará ingresar un número
 positivo. El programa se detendrá cuando se ingrese el número 0.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class TareaBucle {
 

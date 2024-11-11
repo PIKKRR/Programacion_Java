@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 /*. Diseña un programa en Java que crea un arraylist, que contiene los nombres de 4 
 personas. Mostrar los datos del array al completo
-Autor: Jose P. Couso  "Blayneraptor"  */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ArrayList6 {
 
