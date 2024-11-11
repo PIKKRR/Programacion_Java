@@ -5,7 +5,7 @@ import java.util.Scanner;
 Desarrolla un programa que solicite al usuario ingresar 10 números.
 Luego, calcula y muestra la suma de los números positivos, la suma de los negativos,
 y la cantidad de ceros ingresados.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class ifPedir10 {
