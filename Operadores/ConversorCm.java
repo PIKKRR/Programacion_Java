@@ -2,7 +2,7 @@ package Operadores;
 import java.util.Scanner;
 
 /* Convierte longitud de cm a pulgadas. Muestra resultado con cuatro decimales.
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class ConversorCm {
     

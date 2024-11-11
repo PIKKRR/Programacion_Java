@@ -10,7 +10,7 @@ Imprime el texto al revés.
 Imprime todas las vocales separadas por un guión.
 Cuenta y muestra el número de vocales.
 Verifica si el texto es un palíndromo.
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class StringIII {
 

@@ -2,7 +2,7 @@ package Operadores;
 import java.util.Scanner;
 
 /* Convierte la velocidad en km/h ingresada por el usuario a m/s y muestra el resultado con dos decimales.
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class CambiarVelocidad {
 

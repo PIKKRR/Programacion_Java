@@ -10,8 +10,7 @@ Debe tener un punto "." al final.
 La longitud mínima del email debe ser de al menos 20 caracteres.
 El email introducido aparecerá en minúsculas.
 
-Autor: Jose P. Couso "Blayneraptor"
- */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class StringII {
     public static void main(String[] args) {

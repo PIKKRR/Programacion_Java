@@ -7,8 +7,8 @@ public class DiseñarEnunciado3 {
     Haz un programa en el que se calcule el resultado de una expresión matemática
     usando BigDecimal, eleva un número a una potencia y luego multiplica el resultado por otro número
     haciendo que sea un número con muchisimos decimales. 
-
-    */
+    Autor: Antonio Casamitjana 'PIKKRR' */ 
+    
     @SuppressWarnings("deprecation")
     public static void main(String args[]) {
         // Declaración de variables BigDecimal

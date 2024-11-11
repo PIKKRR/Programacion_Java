@@ -2,7 +2,7 @@ package Operadores;
 public class ProbandoCalculos {
 
     /* Define funciones para sumar dos números y obtener un saludo personalizado.
-Autor: Jose P. Couso "Blayneraptor" */
+    Autor: Antonio Casamitjana 'PIKKRR' */ 
     public static void main(String[] args) {
         
         int suma = sumar(5, 3);

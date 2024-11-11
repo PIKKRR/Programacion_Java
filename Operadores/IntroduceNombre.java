@@ -2,7 +2,7 @@ package Operadores;
 import java.util.Scanner;
 
 /* Solicita y muestra el nombre del usuario.
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class IntroduceNombre {
     

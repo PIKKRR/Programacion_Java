@@ -11,7 +11,7 @@ import java.util.Scanner;
 12 de noviembre: -55.37 euros
 29 de noviembre: +1200.96 euros
 11 de diciembre: -85.23 euros
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class OperadoresAsignacion{
 

@@ -4,8 +4,7 @@ import java.util.Scanner;
 /*Crear un programa que solicite al usuario su nombre y apellido,
   luego muestre su nombre completo en mayúsculas, la longitud de su nombre completo,
   sus iniciales y su nombre completo con las vocales reemplazadas por asteriscos."
-
-Autor: Jose P. Couso "Blayneraptor" */
+  Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class StringVI {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 /* Convierte días a meses, años y semanas. Muestra resultados con dos decimales.
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class DeterminarDias {
 

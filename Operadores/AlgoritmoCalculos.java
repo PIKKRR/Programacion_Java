@@ -2,7 +2,7 @@ package Operadores;
 import java.util.Scanner;
 
 /* Solicita dos números al usuario y muestra suma, resta, división y producto.
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class AlgoritmoCalculos{
 
