@@ -6,7 +6,7 @@ Desarrolla un programa que solicite al usuario ingresar dos números.
 Si el primer número es mayor que el segundo, el programa multiplica el primero por dos
 y divide el segundo entre dos. Si el segundo número es mayor, entonces el programa
 divide el primero entre dos y multiplica el segundo por dos.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class DosNumeros {
