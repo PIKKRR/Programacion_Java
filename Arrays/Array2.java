@@ -9,7 +9,7 @@ Solicitar al usuario que ingrese el número de posiciones que tendrá el segundo
 Solicitar al usuario que ingrese los números para cada posición del segundo array.
 Crear un tercer array que contenga los elementos de los dos primeros arrays combinados.
 Imprimir el tercer array que contiene los datos de los dos primeros arrays.
- Autor: Jose P. Couso  "Blayneraptor" */ 
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class Array2 {
     
