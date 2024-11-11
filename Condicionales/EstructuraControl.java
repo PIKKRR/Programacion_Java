@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 Desarrolla un programa que solicite al usuario ingresar dos números.
 El programa determinará cuál de los dos números es mayor e imprimirá un mensaje indicando el resultado.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class EstructuraControl {
