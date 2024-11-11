@@ -5,7 +5,7 @@ import java.util.Scanner;
 El programa debe calcular la nota media, imprimirla con dos decimales y luego
 determinar si el estudiante aprobó o no, mostrando el resultado correspondiente
 (aprobado con notable, bien, sobresaliente o suspendido).
- Autor: Jose P. Couso  "Blayneraptor"  */
+Autor: Antonio Casamitjana 'PIKKRR'  */
 
 public class Array5 {
     
