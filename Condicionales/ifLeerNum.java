@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 Desarrolla un programa que solicite al usuario ingresar números hasta que ingrese 0.
 El programa debe indicar si cada número ingresado es positivo, negativo o cero.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class ifLeerNum {
