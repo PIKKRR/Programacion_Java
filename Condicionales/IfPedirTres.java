@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 Desarrolla un programa que solicite al usuario ingresar tres números.
 Luego, compara los números e imprime un mensaje indicando cuál es el mayor de los tres.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class IfPedirTres {
