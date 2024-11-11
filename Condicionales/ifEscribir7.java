@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /*
 Desarrolla un programa que imprima los números del 100 al 0 de forma descendente, de 7 en 7.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class ifEscribir7 {
