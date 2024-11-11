@@ -3,7 +3,7 @@ import java.util.*;
 
 /* Crear un arraylist con 5 valores de tipo integer. Calcular la media de todos los valores. 
 Visualizar todos los valores y la media 
-Autor: Jose P. Couso  "Blayneraptor"*/
+Autor: Antonio Casamitjana 'PIKKRR'*/
 
 public class ArrayList10 {
 
