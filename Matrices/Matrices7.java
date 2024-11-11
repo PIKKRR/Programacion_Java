@@ -10,8 +10,7 @@ public class Matrices7 {
       • Cada letra se debe almacenar en una celda.
       • Se debe comprobar si hay algún valor repetido en alguna celda.
 
-      Autor: Jose P. Couso "Blayneraptor"
-     */
+      Autor: Antonio Casamitjana 'PIKKRR' */ 
 
     public static void main(String[] args) {
 

@@ -4,8 +4,7 @@ import java.util.Random;
 /*
 Desarrolla un programa que genere una matriz aleatoria de enteros. El usuario proporciona el número de filas
 y columnas de la matriz. Luego, el programa llena la matriz con números aleatorios del 0 al 10 y la muestra por pantalla.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 
 public class Matrices2 {

@@ -2,7 +2,7 @@ package Math;
 
 /* Implementa un programa que utilice las funciones matemáticas de la clase Math
 para calcular diferentes operaciones y mostrar los resultados.
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class DiseñarEnunciado2 {
 

@@ -4,7 +4,7 @@ import java.util.Scanner;
 /* Desarrolla un programa que calcule el área de un triángulo dado la longitud de sus tres lados.
 El usuario introduce las longitudes de los lados del triángulo y el programa muestra el área calculada,
 mostrando solo tres decimales.
-Autor: Jose P. Couso "Blayneraptor" */
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 
 public class TareaMath2 {

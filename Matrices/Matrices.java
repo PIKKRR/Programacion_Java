@@ -2,8 +2,7 @@
 Desarrolla un programa que trabaje con matrices. El programa inicializa una matriz bidimensional de enteros
 y encuentra el mayor y el menor valor en la matriz. Luego, imprime los valores de la primera fila y de la 
 última fila de la matriz.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
    public class Matrices {
     public static void main(String[] args) {

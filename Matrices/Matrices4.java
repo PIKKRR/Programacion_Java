@@ -3,8 +3,7 @@ import java.util.Scanner;
 Desarrolla un programa que permita realizar diversas operaciones con una matriz cuadrada de tamaño 4x4.
 El programa permite llenar la matriz, sumar una fila, sumar una columna, sumar la diagonal principal,
 sumar la diagonal inversa y calcular la media de todos los valores de la matriz.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 public class Matrices4 {
     public static void main(String[] args) {

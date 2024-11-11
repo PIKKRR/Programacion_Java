@@ -3,8 +3,7 @@ import java.util.Collections;
 
 /*
 Desarrolla un programa que genere una matriz 3x3 con los números del 1 al 9 de forma aleatoria, sin repetir ningún número.
-Autor: Jose P. Couso "Blayneraptor"
-*/
+Autor: Antonio Casamitjana 'PIKKRR' */ 
 
 
 
