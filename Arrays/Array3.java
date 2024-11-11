@@ -5,7 +5,7 @@ public class Array3 {
 /* Desarrolla un programa en Java que inicialice dos arrays: uno de cadenas de texto con las letras "a", "e", "r", "t", "y", "v", y otro de números enteros del 1 al 6 en orden ascendente.
 El programa debe crear un tercer array que contenga la suma de los elementos de los dos primeros arrays.
 Imprimir la longitud del tercer array.
- Autor: Jose P. Couso  "Blayneraptor"  */
+Autor: Antonio Casamitjana 'PIKKRR'  */
 
     public static void main(String[] args) {
         
