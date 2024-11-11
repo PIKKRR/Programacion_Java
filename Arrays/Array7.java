@@ -4,7 +4,7 @@ package Arrays;
   suspendido el examen basándose en una puntuación mínima de 50.
   Finalmente muestra las notas y el resultado de aprobación o suspensión para cada alumno.
   
-  Autor: Jose P. Couso  "Blayneraptor */
+Autor: Antonio Casamitjana 'PIKKRR' */
 
 import java.util.*;
 
