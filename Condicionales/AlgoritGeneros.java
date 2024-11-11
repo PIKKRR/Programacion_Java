@@ -6,7 +6,7 @@ Desarrolla un programa que solicite al usuario ingresar su género y nombre.
 Si el género es "masculino", imprime "Bienvenido" seguido del nombre.
 Si el género es "femenino", imprime "Bienvenida" seguido del nombre.
 De lo contrario, imprime "Hola Indeciso".
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class AlgoritGeneros {
