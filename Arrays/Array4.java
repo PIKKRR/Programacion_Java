@@ -5,7 +5,7 @@ import java.util.Scanner;
 del 1 al 57 en orden ascendente. El programa debe imprimir si cada número en el
 array es par o impar, así como contar el número total de celdas pares e impares.
 Finalmente, debe mostrar el total de celdas pares e impares.
- Autor: Jose P. Couso  "Blayneraptor"  */
+Autor: Antonio Casamitjana 'PIKKRR'  */
 
 public class Array4 {
     public static void main(String[] args) {
