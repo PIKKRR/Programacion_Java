@@ -5,7 +5,7 @@ import java.util.Scanner;
 de una tabla o array. Luego, inicializa el array con números del 1 al tamaño
 especificado e imprime la tabla utilizando diferentes tipos de bucles: for,
 while y visualmente con barras verticales.
- Autor: Jose P. Couso  "Blayneraptor"  */
+Autor: Antonio Casamitjana 'PIKKRR'  */
 
 public class Array6 {
     
