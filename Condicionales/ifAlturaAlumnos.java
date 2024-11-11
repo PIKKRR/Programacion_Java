@@ -5,7 +5,7 @@ import java.util.Scanner;
 Desarrolla un programa que solicite al usuario ingresar la edad y la altura de 5 alumnos.
 Luego, el programa calculará la altura media y la edad media de los alumnos, así como la cantidad
 de alumnos mayores de 18 años y la cantidad de alumnos con una altura superior a 1.75 metros.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class ifAlturaAlumnos {
