@@ -5,7 +5,7 @@ import java.util.Scanner;
 Desarrolla un programa que solicite al usuario ingresar un número.
 Luego, determina y muestra todos los números primos entre 1 y el número ingresado.
 Al final, muestra cuántos números primos encontró.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class ifNPrimos {
