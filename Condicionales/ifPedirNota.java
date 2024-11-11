@@ -10,7 +10,7 @@ Menor que 5: Insuficiente
 Entre 5 (inclusive) y menor que 7: Suficiente
 Entre 7 (inclusive) y menor que 9: Notable
 Mayor o igual a 9: Sobresaliente
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class ifPedirNota {
