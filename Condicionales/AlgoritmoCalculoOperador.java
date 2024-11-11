@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 Desarrolla un programa que solicite al usuario ingresar dos números y un operador (+, -, *, /).
 Luego, realiza la operación correspondiente e imprime el resultado.
-Autor: Jose P. Couso "Blayneraptor"
+Autor: Antonio Casamitjana 'PIKKRR'
 */
 
 public class AlgoritmoCalculoOperador {
